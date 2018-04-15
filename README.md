@@ -1,5 +1,4 @@
-# Automated-Identify---SEO-Spam---TFIDF-Vectorizer-MultinomialNB-Sklearn
-
+# Automated Machine Learning to Identify SEO-Spam Websites and Illegal Websites
 
 Requirements:
 Numpy
