@@ -1,4 +1,4 @@
-# Automated Machine Learning to Identify SEO-Spam Websites and Illegal Websites
+# Radical Solution to identify web spam using Machine learning, AI
 
 Requirements:
 Numpy
